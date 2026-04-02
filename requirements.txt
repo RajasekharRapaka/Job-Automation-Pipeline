@@ -2,3 +2,5 @@ pandas
 requests
 beautifulsoup4
 feedparser
+gspread
+oauth2client
